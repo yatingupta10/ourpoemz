@@ -1,3 +1,8 @@
+
+# Created by Yatin Gupta
+# github username : yatingupta10
+# website : http://www.yatingupta.me/
+
 import datetime
 import functools
 import os
