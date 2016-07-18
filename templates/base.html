@@ -15,7 +15,8 @@
     <script type="text/javascript" src="{{ url_for('static', filename='tinymce/tinymce.min.js') }}"></script>
     <script type="text/javascript">
     tinymce.init({
-    selector: "textarea"
+    selector: "textarea",
+    plugins: "image link"
     });
     </script>
     {% block extra_scripts %}{% endblock %}
