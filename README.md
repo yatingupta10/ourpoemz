@@ -9,8 +9,8 @@ Home page of the blog
 `python app.py`
 
 #Improvements:
-- Improved text editor
-- Insertion of images and links in the editor
+- ~~Improved text editor~~
+- ~~Insertion of images and links in the editor~~
 - Improve the UI
 - Make model for authors with different permissions
 - Integration of different plugins
