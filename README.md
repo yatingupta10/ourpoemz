@@ -1,5 +1,6 @@
 # ourpoemz
-Home page of the blog
+Home page of the blog:
+Ourpoemz - Poems from heart to connect every soul
 
 #Installation and Run:
 `git clone https://github.com/yatingupta10/ourpoemz.git`
